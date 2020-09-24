@@ -1,0 +1,7 @@
+{
+  "id": "083-g",
+  "name": "Farfetch'd",
+  "types": ["Fighting"],
+  "abilities": ["Steadfast", "Scrappy"],
+  "genderRate": { "male": 50, "female": 50 }
+}

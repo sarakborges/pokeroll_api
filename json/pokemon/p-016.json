@@ -1,0 +1,7 @@
+{
+  "id": "p-016",
+  "name": "Darfly",
+  "types": ["Bug", "Dark"],
+  "abilities": ["Shield Dust", "Contrary", "Compoundeyes"],
+  "genderRate": { "male": 50, "female": 50 }
+}

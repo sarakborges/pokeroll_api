@@ -1,0 +1,7 @@
+{
+  "id": "p-018",
+  "name": "Fairfly",
+  "types": ["Bug", "Fairy"],
+  "abilities": ["Shield Dust", "Friend Guard", "Compoundeyes"],
+  "genderRate": { "male": 50, "female": 50 }
+}

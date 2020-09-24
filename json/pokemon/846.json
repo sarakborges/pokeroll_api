@@ -1,0 +1,7 @@
+{
+  "id": "846",
+  "name": "Arrokuda",
+  "types": ["Water"],
+  "abilities": ["Swift Swim", "Propeller Tail"],
+  "genderRate": { "male": 50, "female": 50 }
+}

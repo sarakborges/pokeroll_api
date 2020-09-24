@@ -1,0 +1,7 @@
+{
+  "id": "p-002",
+  "name": "Fenyard",
+  "types": ["Grass", "Fairy"],
+  "abilities": ["Overgrow", "Flower Gift"],
+  "genderRate": { "male": 80, "female": 20 }
+}

@@ -1,0 +1,7 @@
+{
+  "id": "p-023",
+  "name": "Bulbash",
+  "types": ["Bug", "Fighting"],
+  "abilities": ["Firefly Light", "Swarm", "Prankster"],
+  "genderRate": { "male": 100, "female": 0 }
+}

@@ -1,0 +1,7 @@
+{
+  "id": "037-a",
+  "name": "Vulpix",
+  "types": ["Ice", "Fairy"],
+  "abilities": ["Snow Cloak", "Snow Warning"],
+  "genderRate": { "male": 25, "female": 75 }
+}

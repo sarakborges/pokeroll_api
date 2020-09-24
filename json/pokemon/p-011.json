@@ -1,0 +1,7 @@
+{
+  "id": "p-011",
+  "name": "Pomplume",
+  "types": ["Flying"],
+  "abilities": ["Competitive", "Gale Wings", "Moody"],
+  "genderRate": { "male": 50, "female": 50 }
+}

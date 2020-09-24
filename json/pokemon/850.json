@@ -1,0 +1,7 @@
+{
+  "id": "850",
+  "name": "Sizzlipede",
+  "types": ["Fire", "Bug"],
+  "abilities": ["Flash Fire", "White Smoke", "Flame Body"],
+  "genderRate": { "male": 50, "female": 50 }
+}

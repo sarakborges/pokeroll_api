@@ -1,0 +1,7 @@
+{
+  "id": "826",
+  "name": "Orbeetle",
+  "types": ["Bug", "Psychic"],
+  "abilities": ["Swarm", "Frisk", "Telepathy"],
+  "genderRate": { "male": 50, "female": 50 }
+}

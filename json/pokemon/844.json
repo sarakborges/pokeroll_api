@@ -1,0 +1,7 @@
+{
+  "id": "844",
+  "name": "Sandaconda",
+  "types": ["Ground"],
+  "abilities": ["Sand Spit", "Shed Skin", "Sand Veil"],
+  "genderRate": { "male": 50, "female": 50 }
+}

@@ -1,0 +1,7 @@
+{
+  "id": "053-p",
+  "name": "Persian",
+  "types": ["Ground"],
+  "abilities": ["Pickup", "Technician", "Tough Claws"],
+  "genderRate": { "male": 50, "female": 50 }
+}

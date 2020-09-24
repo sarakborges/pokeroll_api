@@ -1,0 +1,7 @@
+{
+  "id": "817",
+  "name": "Drizzile",
+  "types": ["Water"],
+  "abilities": ["Torrent", "Sniper"],
+  "genderRate": { "male": 88, "female": 12 }
+}

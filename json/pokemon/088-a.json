@@ -1,0 +1,7 @@
+{
+  "id": "088-a",
+  "name": "Grimer",
+  "types": ["Poison", "Dark"],
+  "abilities": ["Poison Touch", "Gluttony", "Power of Alchemy"],
+  "genderRate": { "male": 50, "female": 50 }
+}

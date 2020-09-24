@@ -1,0 +1,7 @@
+{
+  "id": "p-020",
+  "name": "Dunzacoatl",
+  "types": ["Dragon", "Fairy"],
+  "abilities": ["Multiscale", "Levitate", "Serene Grace"],
+  "genderRate": { "male": 50, "female": 50 }
+}

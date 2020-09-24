@@ -1,0 +1,7 @@
+{
+  "id": "077-g",
+  "name": "Ponyta",
+  "types": ["Psychic"],
+  "abilities": ["Run Away", "Pastel Veil", "Anticipation"],
+  "genderRate": { "male": 50, "female": 50 }
+}

@@ -1,0 +1,7 @@
+{
+  "id": "813",
+  "name": "Scorbunny",
+  "types": ["Fire"],
+  "abilities": ["Blaze", "Libero"],
+  "genderRate": { "male": 88, "female": 12 }
+}

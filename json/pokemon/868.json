@@ -1,0 +1,7 @@
+{
+  "id": "868",
+  "name": "Milcery",
+  "types": ["Fairy"],
+  "abilities": ["Sweet Veil", "Aroma Veil"],
+  "genderRate": { "male": 0, "female": 100 }
+}

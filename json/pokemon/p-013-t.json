@@ -1,0 +1,7 @@
+{
+  "id": "p-013-t",
+  "name": "Luxant",
+  "types": ["Normal", "Rock"],
+  "abilities": ["Sturdy", "Normalize"],
+  "genderRate": { "male": 20, "female": 80 }
+}

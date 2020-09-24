@@ -1,0 +1,7 @@
+{
+  "id": "p-017",
+  "name": "Licoon",
+  "types": ["Bug"],
+  "abilities": ["Shed Skin"],
+  "genderRate": { "male": 50, "female": 50 }
+}

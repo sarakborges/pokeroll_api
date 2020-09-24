@@ -1,0 +1,7 @@
+{
+  "id": "849",
+  "name": "Toxtricity",
+  "types": ["Electric", "Poison"],
+  "abilities": ["Punk Rock", "Minus", "Technician"],
+  "genderRate": { "male": 50, "female": 50 }
+}

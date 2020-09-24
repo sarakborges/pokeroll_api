@@ -1,0 +1,7 @@
+{
+  "id": "p-013-cl",
+  "name": "Luxant",
+  "types": ["Normal", "Grass"],
+  "abilities": ["Queenly Majesty", "Normalize"],
+  "genderRate": { "male": 20, "female": 80 }
+}

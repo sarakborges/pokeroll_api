@@ -1,0 +1,7 @@
+{
+  "id": "052-p",
+  "name": "Meowth",
+  "types": ["Ground"],
+  "abilities": ["Pickup", "Technician", "Tough Claws"],
+  "genderRate": { "male": 50, "female": 50 }
+}

@@ -1,0 +1,7 @@
+{
+  "id": "831",
+  "name": "Wooloo",
+  "types": ["Normal"],
+  "abilities": ["Fluffy", "Run Away", "Bulletproof"],
+  "genderRate": { "male": 50, "female": 50 }
+}

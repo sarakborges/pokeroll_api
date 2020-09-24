@@ -1,0 +1,7 @@
+{
+  "id": "p-004",
+  "name": "Armorid",
+  "types": ["Fire"],
+  "abilities": ["Blaze", "Rock Head"],
+  "genderRate": { "male": 80, "female": 20 }
+}

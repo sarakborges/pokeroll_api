@@ -1,0 +1,7 @@
+{
+  "id": "p-019",
+  "name": "Dunserpent",
+  "types": ["Normal", "Dragon"],
+  "abilities": ["Sheer Force", "Thick Fat", "Serene Grace"],
+  "genderRate": { "male": 50, "female": 50 }
+}

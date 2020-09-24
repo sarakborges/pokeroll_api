@@ -1,0 +1,7 @@
+{
+  "id": "816",
+  "name": "Sobble",
+  "types": ["Water"],
+  "abilities": ["Torrent", "Sniper"],
+  "genderRate": { "male": 88, "female": 12 }
+}

@@ -1,0 +1,7 @@
+{
+  "id": "820",
+  "name": "Greedent",
+  "types": ["Normal"],
+  "abilities": ["Cheek Pouch", "Gluttony"],
+  "genderRate": { "male": 50, "female": 50 }
+}

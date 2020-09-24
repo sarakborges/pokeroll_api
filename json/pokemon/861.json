@@ -1,0 +1,7 @@
+{
+  "id": "861",
+  "name": "Grimmsnarl",
+  "types": ["Dark", "Fairy"],
+  "abilities": ["Prankster", "Frisk", "Pickpocket"],
+  "genderRate": { "male": 100, "female": 0 }
+}

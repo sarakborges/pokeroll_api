@@ -1,0 +1,7 @@
+{
+  "id": "p-005",
+  "name": "Ironillo",
+  "types": ["Fire", "Steel"],
+  "abilities": ["Blaze", "Rock Head"],
+  "genderRate": { "male": 80, "female": 20 }
+}

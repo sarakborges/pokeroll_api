@@ -1,0 +1,7 @@
+{
+  "id": "867",
+  "name": "Runerigus",
+  "types": ["Ground", "Ghost"],
+  "abilities": ["Wandering Spirit"],
+  "genderRate": { "male": 50, "female": 50 }
+}

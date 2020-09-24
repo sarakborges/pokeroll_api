@@ -1,0 +1,7 @@
+{
+  "id": "p-015",
+  "name": "Obscoon",
+  "types": ["Bug"],
+  "abilities": ["Shed Skin"],
+  "genderRate": { "male": 50, "female": 50 }
+}

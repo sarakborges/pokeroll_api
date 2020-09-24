@@ -1,0 +1,7 @@
+{
+  "id": "554-g",
+  "name": "Darumaka",
+  "types": ["Ice"],
+  "abilities": ["Hustle", "Inner Focus"],
+  "genderRate": { "male": 50, "female": 50 }
+}

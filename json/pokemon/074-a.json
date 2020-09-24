@@ -1,0 +1,7 @@
+{
+  "id": "074-a",
+  "name": "Geodude",
+  "types": ["Rock", "Electric"],
+  "abilities": ["Magnet Pull", "Sturdy", "Galvanize"],
+  "genderRate": { "male": 50, "female": 50 }
+}

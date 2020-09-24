@@ -1,0 +1,7 @@
+{
+  "id": "836",
+  "name": "Boltund",
+  "types": ["Electric"],
+  "abilities": ["Strong Jaw", "Competitive"],
+  "genderRate": { "male": 50, "female": 50 }
+}

@@ -1,0 +1,7 @@
+{
+  "id": "828",
+  "name": "Thievul",
+  "types": ["Dark"],
+  "abilities": ["Run Away", "Unburden", "Stakeout"],
+  "genderRate": { "male": 50, "female": 50 }
+}

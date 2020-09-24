@@ -1,0 +1,7 @@
+{
+  "id": "859",
+  "name": "Impidimp",
+  "types": ["Dark", "Fairy"],
+  "abilities": ["Prankster", "Frisk", "Pickpocket"],
+  "genderRate": { "male": 100, "female": 0 }
+}

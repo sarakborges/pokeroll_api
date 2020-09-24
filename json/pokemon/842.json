@@ -1,0 +1,7 @@
+{
+  "id": "842",
+  "name": "Appletun",
+  "types": ["Grass", "Dragon"],
+  "abilities": ["Ripen", "Gluttony", "Thick Fat"],
+  "genderRate": { "male": 50, "female": 50 }
+}

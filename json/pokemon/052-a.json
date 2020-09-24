@@ -1,0 +1,7 @@
+{
+  "id": "052-a",
+  "name": "Meowth",
+  "types": ["Dark"],
+  "abilities": ["Fur Coat", "Technician", "Rattled"],
+  "genderRate": { "male": 50, "female": 50 }
+}

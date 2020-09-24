@@ -1,0 +1,7 @@
+{
+  "id": "075-a",
+  "name": "Graveler",
+  "types": ["Rock", "Electric"],
+  "abilities": ["Magnet Pull", "Sturdy", "Galvanize"],
+  "genderRate": { "male": 50, "female": 50 }
+}

@@ -1,0 +1,7 @@
+{
+  "id": "811",
+  "name": "Thwackey",
+  "types": ["Grass"],
+  "abilities": ["Overgrow", "Grassy Surge"],
+  "genderRate": { "male": 88, "female": 12 }
+}

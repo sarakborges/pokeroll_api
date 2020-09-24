@@ -1,0 +1,7 @@
+{
+  "id": "815",
+  "name": "Cinderace",
+  "types": ["Fire"],
+  "abilities": ["Blaze", "Libero"],
+  "genderRate": { "male": 88, "female": 12 }
+}

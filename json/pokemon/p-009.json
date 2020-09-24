@@ -1,0 +1,7 @@
+{
+  "id": "p-009",
+  "name": "Swimperor",
+  "types": ["Water", "Poison"],
+  "abilities": ["Torrent", "Adaptability"],
+  "genderRate": { "male": 80, "female": 20 }
+}

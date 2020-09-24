@@ -1,0 +1,7 @@
+{
+  "id": "823",
+  "name": "Corviknight",
+  "types": ["Flying", "Steel"],
+  "abilities": ["Pressure", "Unnerve", "Mirror Armor"],
+  "genderRate": { "male": 50, "female": 50 }
+}

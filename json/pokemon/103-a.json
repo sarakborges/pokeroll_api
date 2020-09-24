@@ -1,0 +1,7 @@
+{
+  "id": "103-a",
+  "name": "Exeggutor",
+  "types": ["Grass", "Dragon"],
+  "abilities": ["Frisk", "Harvest"],
+  "genderRate": { "male": 50, "female": 50 }
+}

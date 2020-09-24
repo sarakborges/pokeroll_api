@@ -1,0 +1,7 @@
+{
+  "id": "078-g",
+  "name": "Rapidash",
+  "types": ["Psychic", "Fairy"],
+  "abilities": ["Run Away", "Pastel Veil", "Anticipation"],
+  "genderRate": { "male": 50, "female": 50 }
+}

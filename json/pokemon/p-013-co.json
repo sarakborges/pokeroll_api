@@ -1,0 +1,7 @@
+{
+  "id": "p-013-co",
+  "name": "Luxant",
+  "types": ["Normal", "Fighting"],
+  "abilities": ["Pure Power", "Normalize"],
+  "genderRate": { "male": 20, "female": 80 }
+}

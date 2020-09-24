@@ -1,0 +1,7 @@
+{
+  "id": "887",
+  "name": "Dragapult",
+  "types": ["Dragon", "Ghost"],
+  "abilities": ["Clear Body", "Infiltrator", "Cursed Body"],
+  "genderRate": { "male": 50, "female": 50 }
+}

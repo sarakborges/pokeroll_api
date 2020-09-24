@@ -1,0 +1,7 @@
+{
+  "id": "110-g",
+  "name": "Weezing",
+  "types": ["Poison", "Fairy"],
+  "abilities": ["Levitate", "Neutralizing Gas", "Misty Surge"],
+  "genderRate": { "male": 50, "female": 50 }
+}

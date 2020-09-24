@@ -1,0 +1,7 @@
+{
+  "id": "p-026",
+  "name": "Jinnerak",
+  "types": ["Dark", "Psychic"],
+  "abilities": ["Inner Focus", "Levitate"],
+  "genderRate": { "male": 50, "female": 50 }
+}

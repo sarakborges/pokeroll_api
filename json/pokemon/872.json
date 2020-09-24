@@ -1,0 +1,7 @@
+{
+  "id": "872",
+  "name": "Snom",
+  "types": ["Ice", "Bug"],
+  "abilities": ["Shield Dust", "Ice Scales"],
+  "genderRate": { "male": 50, "female": 50 }
+}

@@ -1,0 +1,7 @@
+{
+  "id": "838",
+  "name": "Carkol",
+  "types": ["Rock", "Fire"],
+  "abilities": ["Steam Engine", "Flame Body", "Flash Fire"],
+  "genderRate": { "male": 50, "female": 50 }
+}

@@ -1,0 +1,7 @@
+{
+  "id": "865",
+  "name": "Sirfetch'd",
+  "types": ["Fighting"],
+  "abilities": ["Steadfast", "Scrappy"],
+  "genderRate": { "male": 50, "female": 50 }
+}

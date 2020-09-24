@@ -1,0 +1,7 @@
+{
+  "id": "863",
+  "name": "Perrserker",
+  "types": ["Steel"],
+  "abilities": ["Battle Armor", "Tough Claws", "Steely Spirit"],
+  "genderRate": { "male": 50, "female": 50 }
+}

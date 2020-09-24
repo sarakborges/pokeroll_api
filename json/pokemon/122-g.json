@@ -1,0 +1,7 @@
+{
+  "id": "122-g",
+  "name": "Mr. Mime",
+  "types": ["Ice", "Psychic"],
+  "abilities": ["Vital Spirit", "Screen Cleaner", "Ice Body"],
+  "genderRate": { "male": 50, "female": 50 }
+}

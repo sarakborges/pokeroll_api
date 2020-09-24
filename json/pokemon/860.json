@@ -1,0 +1,7 @@
+{
+  "id": "860",
+  "name": "Morgrem",
+  "types": ["Dark", "Fairy"],
+  "abilities": ["Prankster", "Frisk", "Pickpocket"],
+  "genderRate": { "male": 100, "female": 0 }
+}

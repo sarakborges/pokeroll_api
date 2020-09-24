@@ -1,0 +1,7 @@
+{
+  "id": "p-006",
+  "name": "Hamarillo",
+  "types": ["Fire", "Steel"],
+  "abilities": ["Blaze", "Rock Head"],
+  "genderRate": { "male": 80, "female": 20 }
+}

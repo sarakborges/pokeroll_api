@@ -1,0 +1,7 @@
+{
+  "id": "p-024",
+  "name": "Grion",
+  "types": ["Grass", "Normal"],
+  "abilities": ["Leaf Guard", "Intimidate", "Tough Claws"],
+  "genderRate": { "male": 20, "female": 80 }
+}

@@ -1,0 +1,7 @@
+{
+  "id": "822",
+  "name": "Corvisquire",
+  "types": ["Flying"],
+  "abilities": ["Keen Eye", "Unnerve", "Big Pecks"],
+  "genderRate": { "male": 50, "female": 50 }
+}

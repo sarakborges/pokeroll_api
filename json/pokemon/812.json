@@ -1,0 +1,7 @@
+{
+  "id": "812",
+  "name": "Rillaboom",
+  "types": ["Grass"],
+  "abilities": ["Overgrow", "Grassy Surge"],
+  "genderRate": { "male": 88, "female": 12 }
+}

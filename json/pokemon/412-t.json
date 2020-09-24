@@ -1,0 +1,7 @@
+{
+  "id": "412-t",
+  "name": "Burmy",
+  "types": ["Bug"],
+  "abilities": ["Shed Skin", "Overcoat"],
+  "genderRate": { "male": 50, "female": 50 }
+}

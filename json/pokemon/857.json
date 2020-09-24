@@ -1,0 +1,7 @@
+{
+  "id": "857",
+  "name": "Hattrem",
+  "types": ["Psychic"],
+  "abilities": ["Healer", "Anticipation", "Magic Bounce"],
+  "genderRate": { "male": 0, "female": 100 }
+}

@@ -1,0 +1,7 @@
+{
+  "id": "824",
+  "name": "Blipbug",
+  "types": ["Bug"],
+  "abilities": ["Swarm", "Compound Eyes", "Telepathy"],
+  "genderRate": { "male": 50, "female": 50 }
+}

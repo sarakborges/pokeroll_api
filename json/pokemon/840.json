@@ -1,0 +1,7 @@
+{
+  "id": "840",
+  "name": "Applin",
+  "types": ["Grass", "Dragon"],
+  "abilities": ["Ripen", "Gluttony", "Bulletproof"],
+  "genderRate": { "male": 50, "female": 50 }
+}

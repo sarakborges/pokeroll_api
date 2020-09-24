@@ -1,0 +1,7 @@
+{
+  "id": "864",
+  "name": "Cursola",
+  "types": ["Ghost"],
+  "abilities": ["Weak Armor", "Perish Body"],
+  "genderRate": { "male": 25, "female": 75 }
+}

@@ -1,0 +1,7 @@
+{
+  "id": "884",
+  "name": "Duraludon",
+  "types": ["Steel", "Dragon"],
+  "abilities": ["Light Metal", "Heavy Metal", "Stalwart"],
+  "genderRate": { "male": 50, "female": 50 }
+}

@@ -1,0 +1,7 @@
+{
+  "id": "848",
+  "name": "Toxel",
+  "types": ["Electric", "Poison"],
+  "abilities": ["Rattled", "Static", "Klutz"],
+  "genderRate": { "male": 50, "female": 50 }
+}

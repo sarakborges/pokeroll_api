@@ -1,0 +1,7 @@
+{
+  "id": "026-a",
+  "name": "Raichu",
+  "types": ["Electric", "Psychic"],
+  "abilities": ["Surge Surfer"],
+  "genderRate": { "male": 50, "female": 50 }
+}

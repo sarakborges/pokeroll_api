@@ -1,0 +1,7 @@
+{
+  "id": "019-a",
+  "name": "Rattata",
+  "types": ["Dark", "Normal"],
+  "abilities": ["Gluttony", "Hustle", "Thick Fat"],
+  "genderRate": { "male": 50, "female": 50 }
+}

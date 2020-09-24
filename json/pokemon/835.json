@@ -1,0 +1,7 @@
+{
+  "id": "835",
+  "name": "Yamper",
+  "types": ["Electric"],
+  "abilities": ["Ball Fetch", "Rattled"],
+  "genderRate": { "male": 50, "female": 50 }
+}

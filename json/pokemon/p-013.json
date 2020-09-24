@@ -1,0 +1,7 @@
+{
+  "id": "p-013",
+  "name": "Luxant",
+  "types": ["Normal"],
+  "abilities": ["Competitive", "Normalize"],
+  "genderRate": { "male": 20, "female": 80 }
+}

@@ -1,0 +1,7 @@
+{
+  "id": "p-012",
+  "name": "Regalliant",
+  "types": ["Flying", "Fairy"],
+  "abilities": ["Competitive", "Gale Wings", "Glam Voice"],
+  "genderRate": { "male": 100, "female": 0 }
+}

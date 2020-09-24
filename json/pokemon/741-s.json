@@ -1,0 +1,7 @@
+{
+  "id": "741-s",
+  "name": "Oricorio",
+  "types": ["Fire", "Ghost"],
+  "abilities": ["Dancer"],
+  "genderRate": { "male": 25, "female": 75 }
+}

@@ -1,0 +1,7 @@
+{
+  "id": "818",
+  "name": "Inteleon",
+  "types": ["Water"],
+  "abilities": ["Torrent", "Sniper"],
+  "genderRate": { "male": 88, "female": 12 }
+}

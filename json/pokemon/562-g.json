@@ -1,0 +1,7 @@
+{
+  "id": "562-g",
+  "name": "Yamask",
+  "types": ["Ground", "Ghost"],
+  "abilities": ["Wandering Spirit"],
+  "genderRate": { "male": 50, "female": 50 }
+}

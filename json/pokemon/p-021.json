@@ -1,0 +1,7 @@
+{
+  "id": "p-021",
+  "name": "Dunsing",
+  "types": ["Dragon", "Poison"],
+  "abilities": ["Shed Skin", "Poison Point", "Serene Grace"],
+  "genderRate": { "male": 50, "female": 50 }
+}

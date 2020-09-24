@@ -1,0 +1,7 @@
+{
+  "id": "p-008",
+  "name": "Platyquill",
+  "types": ["Water"],
+  "abilities": ["Torrent", "Adaptability"],
+  "genderRate": { "male": 80, "female": 20 }
+}

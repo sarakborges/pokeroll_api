@@ -1,0 +1,7 @@
+{
+  "id": "876",
+  "name": "Indeedee",
+  "types": ["Psychic", "Normal"],
+  "abilities": ["Inner Focus", "Synchronize", "Psychic Surge"],
+  "genderRate": { "male": 50, "female": 50 }
+}

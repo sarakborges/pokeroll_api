@@ -1,0 +1,7 @@
+{
+  "id": "851",
+  "name": "Centiskorch",
+  "types": ["Fire", "Bug"],
+  "abilities": ["Flash Fire", "White Smoke", "Flame Body"],
+  "genderRate": { "male": 50, "female": 50 }
+}

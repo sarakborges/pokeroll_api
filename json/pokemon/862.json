@@ -1,0 +1,7 @@
+{
+  "id": "862",
+  "name": "Obstagoon",
+  "types": ["Dark", "Normal"],
+  "abilities": ["Reckless", "Guts", "Defiant"],
+  "genderRate": { "male": 50, "female": 50 }
+}

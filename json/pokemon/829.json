@@ -1,0 +1,7 @@
+{
+  "id": "829",
+  "name": "Gossifleur",
+  "types": ["Grass"],
+  "abilities": ["Cotton Down", "Regenerator", "Effect Spore"],
+  "genderRate": { "male": 50, "female": 50 }
+}

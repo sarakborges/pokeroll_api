@@ -1,0 +1,7 @@
+{
+  "id": "877",
+  "name": "Morpeko",
+  "types": ["Electric", "Dark"],
+  "abilities": ["Hunger Switch"],
+  "genderRate": { "male": 50, "female": 50 }
+}

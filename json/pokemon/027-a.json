@@ -1,0 +1,7 @@
+{
+  "id": "027-a",
+  "name": "Sandshrew",
+  "types": ["Ice", "Steel"],
+  "abilities": ["Snow Cloak", "Slush Rush"],
+  "genderRate": { "male": 50, "female": 50 }
+}

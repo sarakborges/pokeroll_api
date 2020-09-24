@@ -1,0 +1,7 @@
+{
+  "id": "879",
+  "name": "Copperajah",
+  "types": ["Steel"],
+  "abilities": ["Sheer Force", "Heavy Metal"],
+  "genderRate": { "male": 50, "female": 50 }
+}

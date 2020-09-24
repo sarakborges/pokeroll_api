@@ -1,0 +1,7 @@
+{
+  "id": "p-022",
+  "name": "Lucignal",
+  "types": ["Bug", "Psychic"],
+  "abilities": ["Firefly Light", "Tinted Lens", "Prankster"],
+  "genderRate": { "male": 0, "female": 100 }
+}

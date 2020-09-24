@@ -1,0 +1,7 @@
+{
+  "id": "555-g",
+  "name": "Darmanitan",
+  "types": ["Ice"],
+  "abilities": ["Gorilla Tactics", "Zen Mode"],
+  "genderRate": { "male": 50, "female": 50 }
+}

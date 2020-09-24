@@ -1,0 +1,7 @@
+{
+  "id": "p-007",
+  "name": "Platond",
+  "types": ["Water"],
+  "abilities": ["Torrent", "Adaptability"],
+  "genderRate": { "male": 80, "female": 20 }
+}

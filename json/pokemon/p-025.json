@@ -1,0 +1,7 @@
+{
+  "id": "p-025",
+  "name": "Darkraffe",
+  "types": ["Dark"],
+  "abilities": ["Inner Focus", "Forewarn"],
+  "genderRate": { "male": 50, "female": 50 }
+}

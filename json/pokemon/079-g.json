@@ -1,0 +1,7 @@
+{
+  "id": "079-g",
+  "name": "Slowpoke",
+  "types": ["Psychic"],
+  "abilities": ["Gluttony", "Own Tempo", "Regenerator"],
+  "genderRate": { "male": 50, "female": 50 }
+}

@@ -1,0 +1,7 @@
+{
+  "id": "050-a",
+  "name": "Diglett",
+  "types": ["Ground", "Steel"],
+  "abilities": ["Sand Veil", "Tangling Hair", "Sand Force"],
+  "genderRate": { "male": 50, "female": 50 }
+}

@@ -1,0 +1,7 @@
+{
+  "id": "871",
+  "name": "Pincurchin",
+  "types": ["Electric"],
+  "abilities": ["Lightning Rod", "Electric Surge"],
+  "genderRate": { "male": 50, "female": 50 }
+}

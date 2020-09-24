@@ -1,0 +1,7 @@
+{
+  "id": "852",
+  "name": "Clobbopus",
+  "types": ["Fighting"],
+  "abilities": ["Limber", "Technician"],
+  "genderRate": { "male": 50, "female": 50 }
+}

@@ -1,0 +1,7 @@
+{
+  "id": "076-a",
+  "name": "Golem",
+  "types": ["Rock", "Electric"],
+  "abilities": ["Magnet Pull", "Sturdy", "Galvanize"],
+  "genderRate": { "male": 50, "female": 50 }
+}

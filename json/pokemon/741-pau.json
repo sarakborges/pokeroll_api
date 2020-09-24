@@ -1,0 +1,7 @@
+{
+  "id": "741-pau",
+  "name": "Oricorio",
+  "types": ["Fire", "Psychic"],
+  "abilities": ["Dancer"],
+  "genderRate": { "male": 25, "female": 75 }
+}

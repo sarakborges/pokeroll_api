@@ -1,0 +1,7 @@
+{
+  "id": "020-a",
+  "name": "Raticate",
+  "types": ["Dark", "Normal"],
+  "abilities": ["Gluttony", "Hustle", "Thick Fat"],
+  "genderRate": { "male": 50, "female": 50 }
+}

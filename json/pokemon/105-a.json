@@ -1,0 +1,7 @@
+{
+  "id": "105-a",
+  "name": "Marowak",
+  "types": ["Fire", "Ghost"],
+  "abilities": ["Cursed Body", "Lightning Rod", "Rock Head"],
+  "genderRate": { "male": 50, "female": 50 }
+}

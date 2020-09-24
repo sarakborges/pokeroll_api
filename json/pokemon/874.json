@@ -1,0 +1,7 @@
+{
+  "id": "874",
+  "name": "Stonjourner",
+  "types": ["Rock"],
+  "abilities": ["Power Spot"],
+  "genderRate": { "male": 50, "female": 50 }
+}

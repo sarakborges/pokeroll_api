@@ -1,0 +1,7 @@
+{
+  "id": "834",
+  "name": "Drednaw",
+  "types": ["Water", "Rock"],
+  "abilities": ["Strong Jaw", "Shell Armor", "Swift Swim"],
+  "genderRate": { "male": 50, "female": 50 }
+}

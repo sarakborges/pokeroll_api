@@ -1,0 +1,7 @@
+{
+  "id": "833",
+  "name": "Chewtle",
+  "types": ["Water"],
+  "abilities": ["Strong Jaw", "Shell Armor", "Swift Swim"],
+  "genderRate": { "male": 50, "female": 50 }
+}

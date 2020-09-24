@@ -1,0 +1,7 @@
+{
+  "id": "832",
+  "name": "Dubwool",
+  "types": ["Normal"],
+  "abilities": ["Fluffy", "Steadfast", "Bulletproof"],
+  "genderRate": { "male": 50, "female": 50 }
+}

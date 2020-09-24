@@ -1,0 +1,7 @@
+{
+  "id": "618-g",
+  "name": "Stunfisk",
+  "types": ["Ground", "Steel"],
+  "abilities": ["Mimicry"],
+  "genderRate": { "male": 50, "female": 50 }
+}

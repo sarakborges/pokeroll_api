@@ -1,0 +1,7 @@
+{
+  "id": "p-013-cu",
+  "name": "Luxant",
+  "types": ["Normal", "Fairy"],
+  "abilities": ["Cute Charm", "Normalize"],
+  "genderRate": { "male": 20, "female": 80 }
+}

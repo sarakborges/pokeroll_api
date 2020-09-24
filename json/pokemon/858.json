@@ -1,0 +1,7 @@
+{
+  "id": "858",
+  "name": "Hatterene",
+  "types": ["Psychic", "Fairy"],
+  "abilities": ["Healer", "Anticipation", "Magic Bounce"],
+  "genderRate": { "male": 0, "female": 100 }
+}

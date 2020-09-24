@@ -1,0 +1,7 @@
+{
+  "id": "028-a",
+  "name": "Sandslash",
+  "types": ["Ice", "Steel"],
+  "abilities": ["Snow Cloak", "Slush Rush"],
+  "genderRate": { "male": 50, "female": 50 }
+}

@@ -1,0 +1,57 @@
+{
+  "name": "Pesca",
+  "places": [
+    "Corais Azulados",
+    "Alto-mar",
+    "Beach City",
+    "Farol",
+    "Costline Port",
+    "Moonbay City",
+    "Lismore Village",
+    "Bounsweet Garden",
+    "Wanaka Lake",
+    "Tidal Beach",
+    "Sapphire City"
+  ],
+  "pokemonsList": {
+    "common": {
+      "from": 52,
+      "to": 95,
+      "list": [
+        "118",
+        "129",
+        "211",
+        "456",
+        "594",
+        "370",
+        "223",
+        "283",
+        "339",
+        "318"
+      ]
+    },
+
+    "uncommon": {
+      "from": 2,
+      "to": 41,
+      "list": ["779", "120", "270", "550", "170", "194", "746", "535", "072"]
+    },
+
+    "rare": {
+      "44,100": "458",
+      "50,97": "366",
+      "51,98": "116",
+      "46,96": "692",
+      "47,99": "771"
+    },
+
+    "ultrarare": {
+      "49": "147",
+      "45": "349",
+      "42": "369",
+      "43": "781",
+      "48": "690",
+      "1": "846"
+    }
+  }
+}

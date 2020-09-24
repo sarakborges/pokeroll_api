@@ -1,0 +1,7 @@
+{
+  "id": "866",
+  "name": "Mr. Rime",
+  "types": ["Psychic", "Ice"],
+  "abilities": ["Tangled Feet", "Screen Cleaner", "Ice Body"],
+  "genderRate": { "male": 50, "female": 50 }
+}

@@ -1,0 +1,7 @@
+{
+  "id": "841",
+  "name": "Flapple",
+  "types": ["Grass", "Dragon"],
+  "abilities": ["Ripen", "Gluttony", "Hustle"],
+  "genderRate": { "male": 50, "female": 50 }
+}

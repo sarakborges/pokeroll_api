@@ -1,0 +1,7 @@
+{
+  "id": "053-a",
+  "name": "Persian",
+  "types": ["Dark"],
+  "abilities": ["Fur Coat", "Technician", "Rattled"],
+  "genderRate": { "male": 50, "female": 50 }
+}

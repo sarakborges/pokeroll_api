@@ -1,0 +1,7 @@
+{
+  "id": "837",
+  "name": "Rolycoly",
+  "types": ["Rock"],
+  "abilities": ["Steam Engine", "Heatproof", "Flash Fire"],
+  "genderRate": { "male": 50, "female": 50 }
+}

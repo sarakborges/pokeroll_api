@@ -1,0 +1,7 @@
+{
+  "id": "264-g",
+  "name": "Linoone",
+  "types": ["Dark", "Normal"],
+  "abilities": ["Pickup", "Gluttony", "Quick Feet"],
+  "genderRate": { "male": 50, "female": 50 }
+}

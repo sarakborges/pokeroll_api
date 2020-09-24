@@ -1,0 +1,7 @@
+{
+  "id": "825",
+  "name": "Dottler",
+  "types": ["Bug", "Psychic"],
+  "abilities": ["Swarm", "Compound Eyes", "Telepathy"],
+  "genderRate": { "male": 50, "female": 50 }
+}

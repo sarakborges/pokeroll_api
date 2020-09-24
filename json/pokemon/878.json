@@ -1,0 +1,7 @@
+{
+  "id": "878",
+  "name": "Cufant",
+  "types": ["Steel"],
+  "abilities": ["Sheer Force", "Heavy Metal"],
+  "genderRate": { "male": 50, "female": 50 }
+}

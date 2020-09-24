@@ -1,0 +1,7 @@
+{
+  "id": "p-014",
+  "name": "Biteaf",
+  "types": ["Bug"],
+  "abilities": ["Shield Dust", "Swarm", "Compound Eyes"],
+  "genderRate": { "male": 50, "female": 50 }
+}

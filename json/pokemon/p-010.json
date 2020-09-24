@@ -1,0 +1,7 @@
+{
+  "id": "p-010",
+  "name": "Pitifowl",
+  "types": ["Flying"],
+  "abilities": ["Big Pecks", "Gale Wings", "Moody"],
+  "genderRate": { "male": 50, "female": 50 }
+}
